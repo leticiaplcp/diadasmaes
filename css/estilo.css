@@ -1,0 +1,70 @@
+html, body{
+	margin: 0px;
+	font: 20px arial, sans-serif;
+	height: 100%;
+}
+h3{
+	color: #DB8289;
+	text-align: center;
+	text-transform: uppercase;
+}
+p{
+	color: #FFE0E2;
+}
+.conteudo{
+	background-color: #893F44;
+	text-align: justify;
+	padding: 50px 80px;
+}
+.imagem1, .imagem2, .imagem3, .imagem4, .imagem5{
+	position: relative;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+.imagem1{
+	background-image: url(../img/imagem1.png);
+}
+.imagem2{
+	background-image: url(../img/imagem2.png);
+}
+.imagem3{
+	background-image: url(../img/imagem3.png);
+}
+.imagem4{
+	background-image: url(../img/imagem4.png);
+}
+.imagem5{
+	background-image: url(../img/imagem5.png);
+}
+.titulo-imagem{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+}
+.titulo-imagem span.titulo{
+	color: #FFF;
+	background-color: #340508;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
